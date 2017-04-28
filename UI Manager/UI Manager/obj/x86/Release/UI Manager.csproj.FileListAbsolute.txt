@@ -1,0 +1,17 @@
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\obj\x86\Release\UI Manager.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\obj\x86\Release\UI Manager.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\bin\Release\UBotPlugin.dll
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\bin\Release\SoftwareWindows.dll
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\bin\Release\SoftwareWindows.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.dll
+C:\Users\HP\documents\visual studio 2010\Projects\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.g.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\obj\x86\Release\UI Manager.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.g.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\obj\x86\Release\UI Manager.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\bin\Release\SoftwareWindows.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\bin\Release\SoftwareWindows.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Software Windows\UI Manager\UI Manager\obj\x86\Release\SoftwareWindows.pdb
